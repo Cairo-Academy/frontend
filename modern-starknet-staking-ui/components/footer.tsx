@@ -1,6 +1,6 @@
 import {Link} from "@heroui/link";
 import {siteConfig} from "@/config/site";
-import {Navbar as NextUINavbar, NavbarContent, NavbarItem,} from "@heroui/navbar";
+import {Navbar as NextUINavbar, NavbarContent, NavbarItem} from "@heroui/navbar";
 import {DiscordIcon, GithubIcon, TwitterIcon,} from "@/components/icons";
 
 
